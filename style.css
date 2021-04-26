@@ -1,4 +1,6 @@
-.change{
+#kozep{
     width: 50rem;
-    margin-left: 25rem;
+    margin: 9rem;
+    background-color: rgb(26, 248, 248);
+    padding: 5rem;
 }
